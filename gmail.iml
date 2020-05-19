@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="selenium-server-standalone-3.141.59" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <ANNOTATIONS>
+          <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+        </SOURCES>
+        <jarDirectory url="file://$MAVEN_REPOSITORY$/org/testng" recursive="false" />
+        <jarDirectory url="file://$MAVEN_REPOSITORY$/org/testng" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.72/jcommander-1.72.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
