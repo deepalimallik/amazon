@@ -43,7 +43,7 @@ public class AmazonComputersPage {
         if (driver.getPageSource().contains("Computers, Tablets and IT Accessories")) {
             System.out.println("Navigated to Computers page successfully - Test passed");
         } else {
-            System.out.println("Logged in failed - Test failed");
+            System.out.println("Not Navigated to Computers page - Test failed");
         }
 
         driver.quit();
