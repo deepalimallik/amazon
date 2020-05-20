@@ -6,12 +6,12 @@
 ####	Driver: Chrome Driver
 1. Automated test scripts to go to the computer page using selenium web driver
 	Steps  automated:
-•	Navigate to https://www.amazon.com/
-•	Click on All Departments dropdown
-•	Select Computers option from the dropdown list
-•	Click Go search button
-•	Navigate to Computers page
-•	Verify the test result
+* Navigate to https://www.amazon.com/
+*	Click on All Departments dropdown
+*	Select Computers option from the dropdown list
+*	Click Go search button
+*	Navigate to Computers page
+*	Verify the test result
 2. Automated test scripts to automate basic “login” functionality test cases for Gmail
 	Automated and verified:
 •	Navigate to https://www.gmail.com/
