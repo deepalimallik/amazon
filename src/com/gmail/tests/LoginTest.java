@@ -25,6 +25,7 @@ public class LoginTest extends BaseClass {
         login.verifyEmailLabel();
         login.verifyBlankEmail();
         login.verifyInvalidEmail();
+        login.verifyInvalidLengthEmail();
         login.verifyValidEmail();
         login.verifyPasswordPageHeader1();
         login.verifyPasswordPageHeader2();
@@ -35,13 +36,8 @@ public class LoginTest extends BaseClass {
         login.verifyBlankPassword();
         login.verifyInvalidPassword();
         login.verifyValidPassword();
+        login.verifyNavigatedToDashboard();
 
-//        String pageSource = driver.getCurrentUrl();
-//        if (pageSource.matches("Compose")) {
-//                System.out.println("Logged in successfully - Test passed");
-//            } else {
-//                System.out.println("Log in failed - Test failed");
-//            }
 
     }
 }

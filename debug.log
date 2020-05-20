@@ -13,3 +13,6 @@
 [0519/170049.957:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [0519/170049.957:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
 [0519/170049.957:ERROR:exception_snapshot_win.cc(98)] thread ID 6596 not found in process
+[0520/180548.966:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0520/180548.968:ERROR:exception_snapshot_win.cc(98)] thread ID 20408 not found in process
+[0520/180548.968:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
