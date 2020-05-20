@@ -46,7 +46,7 @@ public class AmazonComputersPage {
             System.out.println("Not Navigated to Computers page - Test failed");
         }
 
-        driver.quit();
+        driver.close();
 
     }
 }
