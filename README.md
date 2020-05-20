@@ -1,9 +1,9 @@
 ####	Language: Java
-##	Test Suite: Selenium
-##	Framework: TestNG
-##	IDE Tool: IntelliJ IDEA
-##	Libraries: selenium-java-3.141.59, selenium-server-3.9.1, selenium-server-standalone-3.141.59
-##	Driver: Chrome Driver
+####	Test Suite: Selenium
+####	Framework: TestNG
+####	IDE Tool: IntelliJ IDEA
+####	Libraries: selenium-java-3.141.59, selenium-server-3.9.1, selenium-server-standalone-3.141.59
+####	Driver: Chrome Driver
 1. Automated test scripts to go to the computer page using selenium web driver
 	Steps  automated:
 •	Navigate to https://www.amazon.com/
