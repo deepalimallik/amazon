@@ -13,7 +13,7 @@
 *	Navigate to Computers page
 *	Verify the test result
 2. Automated test scripts to automate basic “login” functionality test cases for Gmail
-	Automated and verified:
+######	Automated and verified:
 *	Navigate to https://www.gmail.com/
 
 1.	Email Page
@@ -30,7 +30,7 @@
 *	Privacy link
 *	Terms link
 *	Validation messages
-	Automated Test Scenarios
+######	Automated Test Scenarios
 *	When a user leaves email text box blank and click on Next button
 *	When a user enters invalid email and click on Next button
 *	When a user enters invalid email length and click on Next button
@@ -43,7 +43,7 @@
 *	Password Label
 *	Next button
 *	Validation messages
-	Automated Test Scenarios
+######	Automated Test Scenarios
 *	When a user leaves password text box blank and click on Next button
 *	When a user enters invalid password and click on Next button
 *	When a user enters valid password and click on Next button
